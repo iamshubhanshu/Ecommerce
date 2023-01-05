@@ -1,0 +1,6 @@
+com\microservices\ecommerce\productService\service\ProductServiceImpl.class
+com\microservices\ecommerce\productService\ProductServiceApplication.class
+com\microservices\ecommerce\productService\controller\ProductController.class
+com\microservices\ecommerce\productService\service\ProductService.class
+com\microservices\ecommerce\productService\dao\ProductRepository.class
+com\microservices\ecommerce\productService\model\Product.class
